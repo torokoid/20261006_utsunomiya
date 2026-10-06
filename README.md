@@ -73,7 +73,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20261005_utsunomiya/20261005_00013.jpeg) center/cover no-repeat;
+background:url(https://torokoid.github.io/20261006_utsunomiya/20261006_00028.jpeg) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
